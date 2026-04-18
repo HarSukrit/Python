@@ -29,3 +29,6 @@ fruits=("Apple","Banana","Orange")
 (green,yellow,orange)=fruits
 print(green)
 print(orange)
+#Methods in tuple:
+tuple1.count(True)
+tuple1.index(True)
